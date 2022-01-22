@@ -10,11 +10,13 @@ In this work we Implement the famous Harris corner detector, where we calculate 
 
 ### Results
 * **Harris Response**
+
 |Regular shape | Rotated shape|
 |--|--|
 |![geo](Results/Harris_Response.png)|![geo](Results/Harris_Response_rotated.png)|
 
 * **Harris Response after non max suppression**
+
 |Regular shape | Rotated shape|
 |--|--|
 |![geo](Results/Harris_Response_with_non_max_suppression.png)|![geo](Results/Harris_Response_rotated_with_non_max_suppression.png)|
